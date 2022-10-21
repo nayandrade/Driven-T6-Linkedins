@@ -166,3 +166,7 @@
 
 
 - [William Eiji Fujimori](https://www.linkedin.com/in/william-eiji-fujimori/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/williameiji)
+
+
+- [Nayara Dalla Vecchia](https://www.linkedin.com/in/nayandrade/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/nayandrade)
+
